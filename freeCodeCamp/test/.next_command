@@ -236,3 +236,4 @@ find
 ls --color=auto
 pwd
 cd ..
+ls --color=auto
