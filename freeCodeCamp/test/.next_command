@@ -92,3 +92,5 @@ touch background.jpg
 touch header.png
 touch footer.jpg
 touch footer.jpeg
+list
+ls --color=auto
