@@ -218,3 +218,4 @@ ls --color=auto
 rm -r fonts
 ls --color=auto
 touch package.json
+touch server.js
