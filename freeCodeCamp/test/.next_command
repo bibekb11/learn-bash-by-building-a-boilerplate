@@ -137,3 +137,4 @@ ls --color=auto
 mkdir donts
 rmdir donts/
 mkdir fonts
+ls --color=auto
