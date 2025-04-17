@@ -237,3 +237,4 @@ ls --color=auto
 pwd
 cd ..
 ls --color=auto
+mv website website-boilerplate
