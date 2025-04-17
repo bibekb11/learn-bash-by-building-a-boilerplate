@@ -119,3 +119,5 @@ rm FreeCodeCamp.svg
 rm footer.jpg
 clear
 cp header.png ./images
+ls --color=auto
+cp footer.jpeg ./images
