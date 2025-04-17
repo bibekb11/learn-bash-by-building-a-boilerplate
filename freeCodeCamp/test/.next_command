@@ -246,3 +246,4 @@ cp website-boilerplate/ -r toms-website/
 ld
 ls --color=auto
 find toms-website/
+find website-boilerplate/
