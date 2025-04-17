@@ -103,3 +103,4 @@ touch CodeRoad.svg
 touch FreeCodeCamp.svg
 ls --color=auto
 touch freeCodeCamp.svg
+ls --color=auto
