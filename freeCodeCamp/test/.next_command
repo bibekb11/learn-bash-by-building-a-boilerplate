@@ -69,3 +69,7 @@ cd ../..
 ls --color=auto
 cleare
 clear
+mkdir project
+ls --color=auto
+rmdir project
+mkdir website
