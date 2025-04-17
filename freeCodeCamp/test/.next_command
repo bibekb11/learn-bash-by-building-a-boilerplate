@@ -167,3 +167,4 @@ cd assets/
 mkdir assets
 rmdir assets
 mkdir images
+cd images/
