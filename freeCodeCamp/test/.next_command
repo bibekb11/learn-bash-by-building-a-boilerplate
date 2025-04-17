@@ -206,3 +206,6 @@ mkdir ./client/assets/fonts
 touch ./client/assets/fonts/roboto-bold.woff
 touch ./client/assets/fonts/roboto-light.woff
 find client/assets/fonts/
+touch ./client/assets/fonts/lato-boldt.ttf
+rm ./client/assets/fonts/lato-boldt.ttf
+touch ./client/assets/fonts/lato-bold.ttf
