@@ -214,3 +214,5 @@ find
 clear
 rm -help
 rm --help
+ls --color=auto
+rm -r fonts
