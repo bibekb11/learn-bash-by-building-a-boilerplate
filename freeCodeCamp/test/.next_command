@@ -172,3 +172,7 @@ touch background.jpg
 cd ../../..
 cd images/
 ls --color=auto
+find website
+clear
+ls --color=auto
+mv header.png ..
