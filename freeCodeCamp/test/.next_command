@@ -67,3 +67,5 @@ ls --color=auto
 pwd
 cd ../..
 ls --color=auto
+cleare
+clear
