@@ -209,3 +209,4 @@ find client/assets/fonts/
 touch ./client/assets/fonts/lato-boldt.ttf
 rm ./client/assets/fonts/lato-boldt.ttf
 touch ./client/assets/fonts/lato-bold.ttf
+touch ./client/assets/fonts/lato-light.ttf
