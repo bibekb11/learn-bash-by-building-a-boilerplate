@@ -243,3 +243,5 @@ cp --help
 mkdir toms-website
 ls --color=auto
 cp website-boilerplate/ -r toms-website/
+ld
+ls --color=auto
