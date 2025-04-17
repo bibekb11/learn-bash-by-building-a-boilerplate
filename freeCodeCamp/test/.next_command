@@ -90,3 +90,5 @@ cd .
 __vsc_prompt_cmd_original
 touch background.jpg
 touch header.png
+touch footer.jpg
+touch footer.jpeg
